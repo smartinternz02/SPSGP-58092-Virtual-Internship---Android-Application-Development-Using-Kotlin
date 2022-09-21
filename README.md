@@ -9,7 +9,7 @@ Presenting the project Nearby Store & Grocery List to you!
 Final Project
 ------------
 
-Although I'm making a lot of effort to fix the flaws, the Maps part of the app is currently not functioning as intended. As a result, I added a grocery list project to the same app, which is completely functional. You can check it out here. Excellent user interface and functionality.
+Although I'm making a lot of effort to fix the flaws, the  app is currently not functioning as intended. As a result, I added a grocery list project to the same app, which is completely functional. You can check it out here. Excellent user interface and functionality.
 
 - [Source Code (On My Repo)](https://github.com/GOPITRINADH3561/Grocery-store) - Give :star: to the repo!
 - [App Presentation Video](https://www.youtube.com/watch?v=PGsm4pN319g)
